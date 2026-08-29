@@ -1,0 +1,2 @@
+Data Science is the process of analyzing data to extract insights.
+Machine Learning is a subset of Artificial Intelligence.
